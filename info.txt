@@ -1,0 +1,16 @@
+[ID:diversitydestroyer]
+[NUMERIC_VERSION:1.1]
+[DISPLAYED_VERSION:1.1]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1.1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.1]
+[AUTHOR:Flahrgunnstow]
+[NAME:Diversity Destroyer]
+[DESCRIPTION:Removes stupid stuff from the game.]
+[STEAM_TITLE:Diversity Destroyer]
+[STEAM_DESCRIPTION:1. Restricts Human, Dwarf, and Elf skin tones to period-realistic ones (pale and tan); makes it so approx. 90% of them are heterosexual, making it more in-line with reality. 2. Adds two dfhack scripts: "unfudd" and "unfuddfemale" which helps rectify the Elmer Fudd issue. When targeting a beardless male dwarf/human, use "unfudd" and it will instantly grow them a beard. "unfuddfemale" should sweep your entire map and give hair to all bald females on your map. Disclaimer: I did not test what this does to goblins/other species. Have fun lol. ]
+[STEAM_TAG:creature]
+[STEAM_TAG:dfhack]
+
+
+
+[STEAM_FILE_ID:3669067587]
